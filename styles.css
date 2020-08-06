@@ -1,0 +1,19 @@
+body {
+    background-color: silver;
+}
+
+h1{
+    color:purple;
+}
+
+#myText {
+	border:1px solid #3366FF;
+    border: 2px solid #3366FF;
+    border-radius: 10px;
+}
+
+/* Rounded Corners */
+#myText2 {
+	border: 2px solid #765942;
+	border-radius: 10px;
+}
